@@ -1,0 +1,23 @@
+{
+  "name": "200409-express-router-lecture-maryhooker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs-fullstack-2020-spring/200409-express-router-lecture-MaryHooker.git"
+  },
+  "author": "M.Hooker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs-fullstack-2020-spring/200409-express-router-lecture-MaryHooker/issues"
+  },
+  "homepage": "https://github.com/cs-fullstack-2020-spring/200409-express-router-lecture-MaryHooker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3"
+  }
+}
